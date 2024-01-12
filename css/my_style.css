@@ -61,6 +61,7 @@ body{
     height: 170px;
     width: 170px;
     background: linear-gradient(#33ccff,#ff0066);
+    background-image: url("my_pic.jpeg");
     border-radius: 50%;
     /* margin-left: 42%;
     margin-top: 40px; */
