@@ -226,13 +226,13 @@ a{
 
 @media screen and (max-width: 767px) {
     .main p{
-        font-size: 11px;
+        font-size: 14px;
         
     }
     .pic{
-        margin-top: 100px;
+        margin-top: 140px;
     }
-    h3{
+    .main h3{
         font-sixe:20px;
     }
     
