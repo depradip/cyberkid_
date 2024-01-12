@@ -90,7 +90,7 @@ body{
     right: 8px;
     bottom: 8px;
     left: 8px;
-    background-image: url("img/my_pic.jpeg");
+    background-image: url("../img/my_pic.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 50%;
